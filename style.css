@@ -1,0 +1,14 @@
+body {
+	background-color: #b7d1c4;
+}
+
+
+header,table {
+	float: none;
+	border: 1px solid black;
+	width:60%;
+}
+
+td {
+	text-align: center;
+}
