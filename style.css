@@ -18,21 +18,59 @@ width:60%;
 	border-radius: 6px;
 }
 
-h1 {
+#valid {
+	float: right;
+}
+
+header, table {
+	background-color: #B3B3B3;
+	border-radius: 6px;
+	border:1px solid #000000;
+}
+
+header{
 	padding-left: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	text-shadow: 8px 8px 8px #4D4D4D;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	text-align: center;
 }
 
-
-header,table {
+#ab {
 	background-color: #B3B3B3;
-	border-radius: 6px;
+	border:1px solid #000000;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#ab ul{
+	list-style-type: none;
+	text-decoration: none;
+	
+}
+
+#ab ul li {
+	float: left;
+	padding: 3 px;
+}
+
+table {
+	margin-top: 10px;
+	padding:3px 7px 2px 7px;
+	border: 1px solid #000000;
+	
 }
 
 th {
 	padding-top: 10px;
 	padding-bottom: 10px;
+	
+}
+tr {
+	color:#000000;
+	border: 1px solid #000000;
+}
+	
+	
 }
