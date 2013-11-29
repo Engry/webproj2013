@@ -35,25 +35,22 @@ header{
 	text-align: center;
 }
 
-#ab {
-	background-color: #B3B3B3;
-	border:1px solid #000000;
-	padding-top: 10px;
-	padding-bottom: 5px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
+#nav ul {
 
-#ab ul{
+
 	list-style-type: none;
-	text-decoration: none;
+	padding: 10px,0px,20px,0px;
 	
 }
 
-#ab ul li {
+#nav ul li {
+
 	float: left;
-	padding: 3 px;
-}
+	padding-left: 8px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+
+
 
 table {
 	margin-top: 10px;
