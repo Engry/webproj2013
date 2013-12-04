@@ -1,17 +1,5 @@
-
-fieldset {
-	width: 50%;
-}
-
-
-
-
-
-
-
-
-
 body {
+	
 	background-color: #E6E6E6;
 	display: block;
 }
@@ -36,12 +24,30 @@ width:60%;
 	padding-right: 5px;
 }
 
-header, table {
+header, table, .formback {
 	background-color: #B3B3B3;
 	border-radius: 6px;
 	border:1px solid #000000;
+	
 }
 
+.formback {
+	margin-top: 15px;
+	padding-left: 10px;
+}
+
+
+form {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+}
+
+form fieldset{
+	width: 50%;
+
+	
+}
 header{
 	padding-left: 10px;
 	padding-top: 5px;
